@@ -127,7 +127,7 @@ PlayEffect Cyan Temp
 # Currency Tier A: Gemcutter, Annullment
 Show
 Class "Currency"
-BaseType "Gemcutter's Prism" "Orb of Annulment" "Orb of Chance"
+BaseType "Gemcutter's Prism" "Orb of Annulment" "Orb of Chance" "Greater Jeweller's Orb" "Lesser Jeweller's Orb"
 SetTextColor 255 255 255 255
 SetBorderColor 255 255 255 255
 SetBackgroundColor 240 90 35
@@ -139,7 +139,7 @@ SetFontSize 40
 # Currency Tier B: Vaal, Chaos, Exalt, Exotic
 Show
 Class "Currency"
-BaseType "Vaal Orb" "Greater Jeweller's Orb" "Chaos Orb" "Lesser Jeweller's Orb" "Exotic" "Exalted Orb" "Regal Orb" "Artificer's Orb" "Glassblower's Bauble" "Orb of Alchemy" "Orb of Chance"
+BaseType "Vaal Orb" "Chaos Orb" "Exotic" "Exalted Orb" "Regal Orb" "Artificer's Orb" "Glassblower's Bauble" "Orb of Alchemy" "Orb of Chance" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard" "Chance Shard"
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
 SetBackgroundColor 76 51 12
@@ -161,7 +161,7 @@ MinimapIcon 1 White Circle
 # Currency Tier C: Vaal, Chaos, Exalt, Exotic
 Show
 Class "Currency"
-BaseType "Arcanist's Etcher" "Armourer's Scrap" "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard" "Chance Shard"
+BaseType "Arcanist's Etcher" "Armourer's Scrap" "Blacksmith's Whetstone"
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
 CustomAlertSound "malus.wav" 300
